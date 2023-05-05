@@ -1,0 +1,57 @@
+.body-content{
+    color: black;
+    font-size: 18px;
+}
+
+.contact{
+    max-width: 1024px;
+}
+
+.contact-red{
+    display: flex;
+    line-height: 1.5;
+}
+
+.contacts{
+    list-style: none;
+}
+
+.content-profile{
+    list-style: none;
+    width: 720px;
+}
+
+.content-profile li{
+    line-height: 1.5;
+}
+
+img{
+    margin: 0px 20px 0px 0px;
+}
+
+.title {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.profile{
+    display: grid;
+    grid-template-columns: 300px 1fr 700px;
+    gap: 15px;
+    grid-template-rows: 400px;
+}
+
+.profile .contact:nth-child(0){
+    grid-column: 1/1;
+}
+
+.profile .contact:nth-child(1){
+    grid-column: 1/2;
+}
+
+.separator{
+    width: 1px;
+    height: 400px;
+    background-color: #D8D4D3;
+}

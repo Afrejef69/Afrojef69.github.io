@@ -1,0 +1,14 @@
+{
+  "name": "portafolio-Afrejef69",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/url-classes/portafolio-Afrejef69.git",
+  "author": "Jeffrey Reyes",
+  "license": "MIT",
+  "scripts": {
+    "dev": "http-server ./public"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

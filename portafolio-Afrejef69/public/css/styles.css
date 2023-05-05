@@ -1,0 +1,35 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+body{
+    background-color: white;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    margin: 20px 144px;
+    width: 1024px;
+    padding-top: 216px;
+}
+
+head{
+    width: 100%;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+section [id] {
+    scroll-margin-top: 70px;
+}
+
+.horizontal-padding{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.vertical-padding{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}

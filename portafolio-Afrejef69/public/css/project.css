@@ -1,0 +1,11 @@
+.list-projects {
+    list-style: none;
+}
+
+.list-projects li {
+    line-height: 1.5;
+}
+
+.projects-description {
+    width: 900px;
+}

@@ -1,0 +1,15 @@
+.eduhab {
+    width: 900px;
+    display: flex;
+    justify-content: center;
+}
+
+.eduhabilities {
+    display: grid;
+    grid-template-columns: 185px 1fr;
+    grid-template-rows: 1/8fr 1fr 1fr 1fr;
+}
+
+li{
+    list-style: none;
+}
